@@ -1,0 +1,117 @@
+{ 
+  "menu": [
+    {
+      "name": "Bruschetta", 
+      "description": "Toasted bread topped with a mixture of chopped tomatoes, basil, garlic, and olive oil.", 
+      "price": 6, 
+      "servingSize": "2 pieces",
+      "type": "Starters"
+    }, 
+    { 
+      "name": "Caprese Salad", 
+      "description": "Fresh mozzarella, tomatoes, and basil drizzled with balsamic reduction.", 
+      "price": 9, 
+      "servingSize": "1 plate",
+      "type": "Starters"
+    },
+    {
+      "name": "Arancini", 
+      "description": "Deep-fried risotto balls stuffed with cheese and served with marinara sauce.", 
+      "price": 8, 
+      "servingSize": "3 pieces",
+      "type": "Starters"
+    },
+    { 
+      "name": "Spaghetti Carbonara", 
+      "description": "Pasta tossed with pancetta, egg, pecorino cheese, and black pepper.", 
+      "price": 14, 
+      "servingSize": "1 plate",
+      "type": "Main Course Dishes"
+    }, 
+    {
+      "name": "Lasagna alla Bolognese", 
+      "description": "Layered pasta sheets with beef ragù, béchamel sauce, and Parmesan cheese.", 
+      "price": 16, 
+      "servingSize": "1 slice",
+      "type": "Main Course Dishes" 
+    }, 
+    { 
+
+      "name": "Risotto ai Funghi", 
+      "description": "Creamy rice dish cooked with assorted mushrooms and Parmesan cheese.", 
+      "price": 15, 
+      "servingSize": "1 bowl",
+      "type": "Main Course Dishes" 
+    }, 
+    { 
+      "name": "Ossobuco alla Milanese", 
+      "description": "Braised veal shanks cooked with white wine, broth, onions, tomatoes, and garlic, served with gremolata and traditionally accompanied by risotto alla Milanese.", 
+      "price": 18, 
+      "servingSize": "1 plate",
+      "type": "Main Course Dishes" 
+    }, 
+    { 
+      "name": "Gnocchi di Patate", 
+      "description": "Soft potato dumplings served with a choice of tomato basil sauce, creamy gorgonzola sauce, or browned butter and sage.", 
+      "price": 15.5, 
+      "servingSize": "1 plate",
+      "type": "Main Course Dishes" 
+    }, 
+    { 
+      "name": "Penne all’Arrabbiata", 
+      "description": "Penne pasta served with a spicy tomato sauce made from garlic, tomatoes, and dried red chili peppers.", 
+      "price": 13.5, 
+      "servingSize": "1 plate",
+      "type": "Main Course Dishes" 
+    },
+    { 
+      "name": "Tiramisu", 
+      "description": "Layered dessert made with coffee-soaked ladyfingers, mascarpone cheese, cocoa, and whipped cream.", 
+      "price": 8, 
+      "servingSize": "1 slice",
+      "type": "Desserts"  
+    }, 
+    { 
+      "name": "Panna Cotta", 
+      "description": "Creamy custard-like dessert topped with berry coulis.", 
+      "price": 7, 
+      "servingSize": "1 cup",
+      "type": "Desserts"  
+    }, 
+    { 
+      "name": "Cannoli", 
+      "description": "Crispy pastry tubes filled with sweet ricotta cheese and chocolate chips.", 
+      "price": 6, 
+      "servingSize": "2 pieces",
+      "type": "Desserts"  
+    },
+    { 
+      "name": "Espresso", 
+      "description": "Strong Italian coffee served in a small cup.", 
+      "price": 3, 
+      "servingSize": "1 cup",
+      "type": "Beverages"  
+    }, 
+    { 
+      "name": "Limoncello", 
+      "description": "Italian lemon liqueur primarily produced in Southern Italy.", 
+      "price": 8, 
+      "servingSize": "1 shot",
+      "type": "Beverages"   
+    }, 
+    { 
+      "name": "Chianti", 
+      "description": "Red wine from Tuscany, known for its robust flavor.", 
+      "price": 10, 
+      "servingSize": "1 glass",
+      "type": "Beverages"   
+    }, 
+    { 
+      "name": "Aperol Spritz", 
+      "description": "A cocktail made of Prosecco, Aperol, and soda water.", 
+      "price": 12, 
+      "servingSize": "1 glass",
+      "type": "Beverages"   
+    } 
+  ] 
+} 
