@@ -1,5 +1,6 @@
 {
-  "menu": [{
+  "menu": [
+    {
       "name": "Bruschetta",
       "description": "Toasted bread topped with a mixture of chopped tomatoes, basil, garlic, and olive oil.",
       "price": 6,
