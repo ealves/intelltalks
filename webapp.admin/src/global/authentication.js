@@ -8,13 +8,13 @@ const defaultValues = Object.freeze({
   logout: () => {},
 });
 
-const STOREGE_KEY = "authentication";
+const STORAGE_KEY = "authentication";
 
 export const AuthenticationContext = React.createContext(defaultValues);
 
 export function AuthenticationProvider({ children }) {
   const [authentication, setAuthentication] = useSessionStorage(
-    STOREGE_KEY,
+    STORAGE_KEY,
     defaultValues
   );
 
